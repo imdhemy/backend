@@ -4,7 +4,9 @@
 
 <details>
 	<summary>Show details</summary>
-  - [How does the internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+  <ul>
+    <li><a href='https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work'>How does the Internet work?</a></li>
+  </ul>
 </details>
 
 ## Basic frontend knowledge
