@@ -1,6 +1,12 @@
 # Backend Engineer Roadmap
 
 ## Internet
+
+<details>
+	<summary>Show details</summary>
+  - [How does the internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+</details>
+
 ## Basic frontend knowledge
 ## OS and general knowledge
 ## Learn a language
