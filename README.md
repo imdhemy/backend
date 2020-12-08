@@ -1,9 +1,9 @@
 # Backend Engineer Roadmap
 
 ## Internet
-## Basic frontent knowledge
+## Basic frontend knowledge
 ## OS and general knowledge
-## Laran a language
+## Learn a language
 ## Version control systems
 ## Repo hosting services
 ## Relational databases
